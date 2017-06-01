@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import sys
 from io import BytesIO
 import imp
