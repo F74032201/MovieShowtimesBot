@@ -9,4 +9,4 @@ This is a convenient bot for check the showtimes of the movies in regions.
 bot的使用:每個state皆有按鍵(重新查詢)可回到user state。
 
 ## FSM diagram
-![fsm](http://imgur.com/Uz14XcV)
+![fsm](https://screenshot.net/tw/74jyyfk)
